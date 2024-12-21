@@ -1,0 +1,29 @@
+assets/external/
+__pycache__/
+*.py[cod]
+.web
+*.db
+
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Reflex build files
+.web/
+uploaded_files/
+
+# IDE files
+.idea/
+*.iml
+*.vscode/
